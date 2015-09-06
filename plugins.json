@@ -1,5 +1,9 @@
 [{
   "package": "io.vizz.slimtv2.plugins.browser",
+  "developer": "Vizzio",
+  "website": "http://www.slimtv.me",
+  "email": "vizzio.bugsreport@gmail.com",
+  "version": "0.1",
   "title": "Browser",
   "subtitle": "Browser test",
   "description": "Browser test description",
