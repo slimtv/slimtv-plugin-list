@@ -1,0 +1,14 @@
+[{
+  "package": "io.vizz.slimtv2.plugins.browser",
+  "title": "Browser",
+  "subtitle": "Browser test",
+  "description": "Browser test description",
+  "icon": "http://1.bp.blogspot.com/-dTliKTChbPA/VXh2idc5lPI/AAAAAAAABxg/xoPCoV_UeuY/s1600/04_blog_3banner.png",
+  "hooks": {
+    "navigation": {
+      "icon": "http://1.bp.blogspot.com/-dTliKTChbPA/VXh2idc5lPI/AAAAAAAABxg/xoPCoV_UeuY/s1600/04_blog_3banner.png",
+      "title": "Browser",
+      "page": "https://raw.githubusercontent.com/slimtv/simple-link-finder/master/fragment.js"
+    }
+  }
+}]
